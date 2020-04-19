@@ -1,3 +1,3 @@
-MAINTAINER omodolapovictorb@gmail.com
 FROM hshar/webapp 
+MAINTAINER omodolapovictorb@gmail.com
 COPY . /var/www/html
